@@ -54,7 +54,7 @@ Voice actions and the second containing Button actions that activate both the sa
 First of all click on the <img src="img/sshot_codeButton.png" width=70> button, then on "Download ZIP" to download the repo's zip. Then go to the folder where you downloaded the zip, right click and extract to *"A-Cube_Test-master"*.  
 Now open Android Studio and click on **"Open an existing Android Studio project"** or **"File -> Open.. -> A-Cube_Test-master -> OK"** and wait until gradle sync, etc.. are done.    
 
-<img src="img/AndroidStudio_Install.png">  
+<img src="img/AndroidStudio_InstallA-Cube1.1.png">  
 
 ## Demo ##
 ### Add a Configuration for a game ###
